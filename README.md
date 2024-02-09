@@ -1,4 +1,4 @@
-![J.A.R.V.I.S Logo](Screenshot 2024-02-09 214746.png)
+![J.A.R.V.I.S Logo](./Screenshot 2024-02-09 214746.png)
 ```markdown
 # J.A.R.V.I.S - Just A Rather Very Intelligent System
 
