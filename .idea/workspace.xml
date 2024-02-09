@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dd1fc54-f4e9-4e0d-b0f6-b57cc069d3f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jarvis 4.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/COMMON_AUTOMATION/COMMON_CLOSE/close.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/close.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/COMMON_AUTOMATION/COMMON_INTREGATION/common_intregation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/common_intregation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/COMMON_AUTOMATION/COMMON_OPEN/open.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/open.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_ALERT/battery_alert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_ALERT/battery_alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/battery_alert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_INTREGATION/battery_intregation_main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_INTREGATION/battery_intregation_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/battery_intregation_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_PLUG_CHECK/battery_plug_check.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/BATTERY_PLUG_CHECK/battery_plug_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/battery_plug_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/CHECK_BATTERY_PERSENTAGE/check_battery_persentage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_BATTERY_AUTOMATION/CHECK_BATTERY_PERSENTAGE/check_battery_persentage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/check_battery_persentage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/GOOGLE_INTREGATION/google_intregation_main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/GOOGLE_INTREGATION/google_intregation_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/google_intregation_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/OPEN_WEBSITE/open_website.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/OPEN_WEBSITE/open_website.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/open_website.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/SCROLE_AUTOMATION/scrole_automation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/SCROLE_AUTOMATION/scrole_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/scrole_automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/SEARCH_IN_GOOGLE/search_in_google.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/SEARCH_IN_GOOGLE/search_in_google.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/search_in_google.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/TAB_AUTOMATION/tab_automation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_GOOGLE_AUTOMATION/TAB_AUTOMATION/tab_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/tab_automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/ANOTHER_AUTOMATION/Another_Automation_in_youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/ANOTHER_AUTOMATION/Another_Automation_in_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/Another_Automation_in_youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/CAPTION_AUTOMATION/caption_in_video.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/CAPTION_AUTOMATION/caption_in_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/caption_in_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/MANUAL_SEARCH_AUTOMATION/manual_search_in_youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/MANUAL_SEARCH_AUTOMATION/manual_search_in_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/manual_search_in_youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/PLAY_MUSIC_AUTOMATION/play_music_in_youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/PLAY_MUSIC_AUTOMATION/play_music_in_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/play_music_in_youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/PLAY_PAUSE_AUTOMATION/play_pause_video_in_youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/PLAY_PAUSE_AUTOMATION/play_pause_video_in_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/play_pause_video_in_youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/SEARCH_IN_YOUTUBE/search_in_youtube.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/SEARCH_IN_YOUTUBE/search_in_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/search_in_youtube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/YOUTUBE_INTREGATION/youtube_intregation_main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/YOUTUBE_INTREGATION/youtube_intregation_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/youtube_intregation_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/YOUTUBE_PLAYBACK/youtube_video_playback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/JARVIS_YOUTUBE_AUTOMATION/YOUTUBE_PLAYBACK/youtube_video_playback.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/youtube_video_playback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION/MAIN_INTREGATION/_intregation_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/_intregation_automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/ACTIVITY/ADVICE/advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/advice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/ACTIVITY/GREATINGS/WELCOME_GREATINGS/welcome_greatings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/welcome_greatings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/ACTIVITY/GREATINGS/WISH_GREATINGS/wish_greatings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/wish_greatings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/ACTIVITY/JOKE/jokes.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/jokes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/MAIN_BRAIN/BRAIN/brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/MAIN_BRAIN/GOOGLE_BIG_DATA/google_big_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/google_big_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/MAIN_BRAIN/GOOGLE_SMALL_DATA/google_small_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/google_small_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/TRANING_BAIN/MODEL_1_0/model1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/model1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BRAIN/TRANING_BAIN/MODEL_2_0/model2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BRAIN/model2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/BRAIN_DATA/QNQ_DATA/qna.json" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/qna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/BRAIN_DATA/QNQ_DATA/qna.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/qna.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/JARVIS_DLG_DATASET/DLG.py" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/DLG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/JARVIS_DLG_DATASET/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/JARVIS_DRIVER/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/JARVIS_DRIVER/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/soundeffect/mixkit-high-tech-bleep-confirmation-2520.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/soundeffect/mixkit-user-interface-zoom-out-2620.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/soundeffect/start_sound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/CHECK_INTERNET_SPEED/CHECK_SPEED.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/CHECK_SPEED.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/CHECK_ONLINE_OFFLINE_STATUS/check_online_offline_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/check_online_offline_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/CHECK_TEMERATURE/check_temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/check_temperature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/CLAP_DETECTOR/clapd.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/clapd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/CLOCK/CLOCK.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/CLOCK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/FIND_MY_IP/find_my_ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/find_my_ip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/JARVIS_LISTEN/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/JARVIS_LISTEN/listen.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/listen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/JARVIS_SPEAK/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/JARVIS_SPEAK/speak.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/speak.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/MAIN_FUNCTION_INTREGATION/function_intregation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/function_intregation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/MUSIC_WITH_CLAP/clap_with_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/clap_with_music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNCTION/OFFLINE_VOICE/speak2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNCTION/speak2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generator/ESSAY_GENTATOR/essay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAIN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAIN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REQUIREMENTS/PYCHARM/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REQUIREMENTS/PYTHON/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REQUIREMENTS/PYTHON/python-3.11.7-amd64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/USER_INTERFACE/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/USER_INTERFACE/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USER_INTERFACE/ui2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2c8QithQmiSV4iDvm9cpglvbZ9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python._intregation_automation.executor": "Run",
+    "Python.check_online_offline_status.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/chatu/OneDrive/Desktop/J.A.R.V.I.S/FUNCTION"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\FUNCTION" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\FUNCTION" />
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\DATA" />
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\BRAIN" />
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\BRAIN\ACTIVITY" />
+      <recent name="C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\Automation" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dd1fc54-f4e9-4e0d-b0f6-b57cc069d3f9" name="Changes" comment="" />
+      <created>1707490856583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707490856583</updated>
+    </task>
+    <servers />
+  </component>
+</project>
